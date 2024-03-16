@@ -1,4 +1,4 @@
-import ContactForm from "./componets/ContactForm/ContactForm ";
+import ContactForm from "./components/ContactForm";
 import SearchBox from "./componets/SearchBox/SearchBox";
 import ContactList from "./componets/ContactList/ContactList";
 
